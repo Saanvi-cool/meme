@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../object-detection copy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lol"
+	}
+}
